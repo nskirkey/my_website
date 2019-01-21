@@ -3,7 +3,7 @@ import React from 'react';
 class LeftBar extends React.Component {
 	render() {
 		return (
-			<h1>LEFTBAR</h1>
+			<h1> </h1>
 		);
 	}
 }

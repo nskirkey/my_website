@@ -17,11 +17,13 @@ class Navigation extends React.Component {
 						</li>
 						
 					</ul>
+					<a className="navbar-brand">
+						<img src={ require('../graphics/ns_logo.jpg') } />
+					</a>
 				</div>
 				<div className="mx-auto order-0">
-					<a className="navbar-brand">
-						<img src="../graphics/ns_logo.jpg"  alt="logo" />
-					</a>
+
+					
 				</div>
 				<div className="navbar-collapse collapse w-100 order-3 dual-collapse2">
 					<ul className="navbar-nav ml-auto">
